@@ -2,7 +2,7 @@
 
 # Intro 
 
-This repository utilizes Defillama's API to fetch the rank of top 30 EVM chains sorted by their TVL. The purpose of this code is to find the changes between now and during BTC's ATH.
+This repository utilizes Defillama's API to fetch the rank of top 50 EVM chains sorted by their TVL. The purpose of this code is to find the changes between now and during BTC's ATH.
 
 # Scripts
 ```commandline
